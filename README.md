@@ -115,6 +115,12 @@ sdcard_asm.s
 └── sd_write_block()  → Escribe 512 bytes (optimizado)
 ```
 
+## 💖 Apóyame
+
+Si disfrutas de este proyecto, considera apoyarme:
+
+[![Support me on Ko-fi](https://img.shields.io/badge/Ko--fi-Apóyame-FF5E5B?logo=kofi&logoColor=white&style=for-the-badge)](https://ko-fi.com/nelsonfigueroa2k)
+
 ## Licencia
 
 MIT License - ver [LICENSE](LICENSE)
